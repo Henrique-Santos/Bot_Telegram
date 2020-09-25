@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+projetos/agenda/node_modules/
+projetos/agenda/package-lock.json
+.env

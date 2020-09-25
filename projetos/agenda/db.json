@@ -1,0 +1,32 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Arrumar o Quarto",
+      "dt_previsao": null,
+      "dt_conclusao": null,
+      "observacao": "Deve acontecer todos os dias"
+    },
+    {
+      "id": 2,
+      "descricao": "Estudar a Biblía",
+      "dt_previsao": "2020-06-26",
+      "dt_conclusao": "2020-06-26",
+      "observacao": "Tem que todos os dias"
+    },
+    {
+      "id": 3,
+      "descricao": "Ler Livros",
+      "dt_previsao": "2020-06-26",
+      "dt_conclusao": null,
+      "observacao": "Cangaceiro JS 👌🏾\n---\nEsse livro é muito bom\n---\nAté demais\n---\nJS é o bixo"
+    },
+    {
+      "descricao": "Concluir o Bot",
+      "dt_previsao": "2020-07-26",
+      "dt_conclusao": null,
+      "observacao": null,
+      "id": 4
+    }
+  ]
+}
